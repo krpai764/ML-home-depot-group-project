@@ -1,4 +1,4 @@
-# ML-home-depot-group-project
+# ML-home-depot-project
 
 Here's a `README.md` tailored for your GitHub repo that explains the Kaggle Home Credit Default Risk project based on the screenshots and your LightGBM pipeline implementation:
 

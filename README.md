@@ -1,4 +1,4 @@
-# ML-home-depot-project
+# ML-Home-Credit-Group-Project
 
 
 # 🏠 Home Credit Default Risk Prediction
